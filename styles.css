@@ -1,0 +1,27 @@
+body, form{ text-align:center;}
+
+form{font-size:40px; margin:10px;}
+
+input[type="email"]{
+	 padding:5px;
+  height:25px;
+  width:255px;}
+  
+input[type="password"]{
+	 padding:5px;
+  height:25px;
+  width:255px;}
+  
+input[type="Text"]{
+	 padding:5px;
+  height:25px;
+  width:255px;}
+  
+input[type="submit"]{
+  height:38px;
+  background:#283d9f;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#ffffff;
+}
